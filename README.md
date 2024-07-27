@@ -1,1 +1,1 @@
-# demaciabs.github.io
+# AdguardTeam.github.io
