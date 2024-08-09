@@ -340,10 +340,23 @@
 #||rmonitor.qq.com^  	 !腾讯旗下的不知道什么平台
 ||open.kwaizt.com^   	 !快手子系统
 #抖音小游戏的api
-||sfplay.net^
-||byteimg.com^
-||shujupie.com^
-||douyinvod.com^
-||amemv.com^
-||fenqile.com^
-||mucfc.com^
+||douyincdn.com^
+||ixigua.com^
+||miaozhen.com^
+||huoshanlive.com^
+||douyinliving.com^
+||wswebcdn.com^
+||rtmpvcloud.ks-cdn.com^
+||bytefcdn.com^
+||wsdvs.com^
+||alikunlun.net^
+||akamai.net^
+||leishouwin.cc^
+||bytedcdn.com^
+||chengzijianzhan.com^
+||queniuum.com^
+||queniubg.com^
+||queniuso.com^
+||bytetcc.com^
+||oceanengine.com^
+||queniuyk.com^
