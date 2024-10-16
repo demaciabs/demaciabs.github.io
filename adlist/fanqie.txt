@@ -27,6 +27,8 @@
 ||fqnovelpic.com^
 ||pstatp.com^
 ||wostore.cn^
+||yximgs.com^
+||qm989.com^
 ||douyinstatic.com^
 ||douyin.com^
 ||toutiaoapi.com^
